@@ -1,6 +1,6 @@
 {
   "FILTERING": {
-    "CONTENT": "homebrew",
+    "CONTENT": "all",
     "SORT": {
       "type": "name",
       "ascending": true
@@ -21,24 +21,24 @@
       "deleteOnCancel": true
     },
     "APPLICATION": {
-      "background_uri": "https://raw.githubusercontent.com/StandVideo/Spotify-All-Version-PS4-PS5/refs/heads/HTML/BG.jpg",
+      "background_uri": "https://raw.githubusercontent.com/cocacola75/Private/refs/heads/main/BG.jpg",
       "backgroundMusic": true,
       "populateViaWeb": true,
       "enableUpdates": true
     },
     "CONTENT_URLS": {
-      "PS1": "https://ia903205.us.archive.org/27/items/stand75019_20260514_1201/PS1.json",
-      "PS2": "https://ia903205.us.archive.org/27/items/stand75019_20260514_1201/PS2.json",
-      "PSP": "https://ia903205.us.archive.org/27/items/stand75019_20260514_1201/PSP.json",
-      "PS5": "https://ia903205.us.archive.org/27/items/stand75019_20260514_1201/PS5.json",
-      "games": "https://ia903205.us.archive.org/27/items/stand75019_20260514_1201/GAMES.json",
-      "apps": "https://ia903205.us.archive.org/27/items/stand75019_20260514_1201/APPS.json",
-      "updates": "https://ia903205.us.archive.org/27/items/stand75019_20260514_1201/UPDATES.json",
-      "DLC": "https://ia903205.us.archive.org/27/items/stand75019_20260514_1201/DLC.json",
-      "demos": "https://ia903205.us.archive.org/27/items/stand75019_20260514_1201/DEMOS.json",
-      "homebrew": "https://ia903205.us.archive.org/27/items/stand75019_20260514_1201/HOMEBREW.json",
-      "emulators": "https://ia903205.us.archive.org/27/items/stand75019_20260514_1201/EMULATORS.json",
-      "themes": "https://ia903205.us.archive.org/27/items/stand75019_20260514_1201/THEMES.json"
+      "PS1": "https://raw.githubusercontent.com/cocacola75/Private/refs/heads/main/PS1.json",
+      "PS2": "https://raw.githubusercontent.com/cocacola75/Private/refs/heads/main/PS2.json",
+      "PSP": "https://raw.githubusercontent.com/cocacola75/Private/refs/heads/main/PSP.json",
+      "PS5": "https://raw.githubusercontent.com/cocacola75/Private/refs/heads/main/PS5.json",
+      "games": "https://raw.githubusercontent.com/cocacola75/Private/refs/heads/main/GAMES.json",
+      "apps": "https://raw.githubusercontent.com/cocacola75/Private/refs/heads/main/APPS.json",
+      "updates": "https://raw.githubusercontent.com/cocacola75/Private/refs/heads/main/UPDATES.json",
+      "DLC": "https://raw.githubusercontent.com/cocacola75/Private/refs/heads/main/DLC.json",
+      "demos": "https://raw.githubusercontent.com/cocacola75/Private/refs/heads/main/DEMOS.json",
+      "homebrew": "https://raw.githubusercontent.com/cocacola75/Private/refs/heads/main/HOMEBREW.json",
+      "emulators": "https://raw.githubusercontent.com/cocacola75/Private/refs/heads/main/EMULATORS.json",
+      "themes": "https://raw.githubusercontent.com/cocacola75/Private/refs/heads/main/THEMES.json"
     }
   }
 }
